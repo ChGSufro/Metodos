@@ -1,1 +1,1 @@
-Este repositorio tiene el fin de guardar metodos utiles a futuro.
+//Este repositorio tiene el fin de guardar metodos utiles a futuro.
